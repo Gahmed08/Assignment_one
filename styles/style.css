@@ -1,0 +1,132 @@
+.banner{
+    background-color: #E5547320;
+}
+.banner-main{
+    display: flex;
+    padding: 20px 60px 0px 60px;
+}
+
+.banner-content{
+    padding-top: 150px;
+}
+
+.banner-title{
+    font-size: 80px;
+    margin-bottom: 0px;
+}
+
+#banner-ing{
+    height: 800px;
+    width: 635px;
+}
+.btn-primary{
+    background-color: #E55473;
+    color: #FFFFFF;
+    padding: 20px 45px;
+    border-radius: 10px;
+    font-size: 20px;
+    border: 0px;
+}
+
+.flower-section{
+    margin: 30px 100px;
+}
+
+.flower-info{
+    text-align: center;
+    
+}
+.flower-box{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.section-title{
+    font-size: 40px;
+}
+.flower-box-one{
+    background-color: #A7216215;
+    border-top-right-radius: 500px ;
+    border-top-left-radius: 500px;
+}
+.flower-box-two{
+    background-color: #0597A015;
+    border-top-right-radius: 500px ;
+    border-top-left-radius: 500px;
+}
+.flower-box-three{
+    background-color: #477D1115;
+    border-top-right-radius: 500px ;
+    border-top-left-radius: 500px;
+}
+
+.box-name{
+    text-align: center;
+    text-decoration: underline;
+    width: 364px;
+}
+.clint-section{
+    margin: 30px 100px;
+    background-color: #27272715;
+}
+
+.order-options{
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.options{
+    padding-top: 30px;
+    text-align: center;
+}
+
+.offer{
+    background-color: #E5547315;
+}
+
+.offer-options{
+    padding: 30px 100px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.offer-detail{
+    text-align: center;
+    margin-top: 100px;
+}
+.instagram{
+    text-align: center;
+    margin: 30px 100px;
+}
+.display{
+    display: flex;
+    justify-content: space-between;
+}
+.latest-deals{
+    background-image: url("../images/Rectangle\ 9.png");
+    background-size: cover;
+    margin: 30px 100px;
+    text-align: center;
+    
+}
+
+.sub{
+    margin-top: 50px;
+    padding-bottom: 100px;
+}
+
+.footer{
+    text-align: center;
+    color: #FFFFFF;
+    background-color: #111010;
+}
+
+.zoom{
+    transition: transform .2s;
+}
+
+.zoom:hover{
+    transform: scale(1.5);
+}
