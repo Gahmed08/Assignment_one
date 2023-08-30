@@ -1,3 +1,11 @@
+
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+
+
 .banner{
     background-color: #E5547320;
 }
@@ -11,7 +19,7 @@
 }
 
 .banner-title{
-    font-size: 80px;
+    font-size: 70px;
     margin-bottom: 0px;
 }
 
