@@ -115,6 +115,17 @@ body{
     background-color: #E5547315;
 }
 
+.order-btn{
+    text-align: center;
+    margin-left: 20px;
+    background-color: #E55473;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 0px;
+
+}
+
 .offer-options{
     padding: 30px 100px;
     display: flex;
@@ -158,6 +169,7 @@ body{
 
 .zoom:hover{
     transform: scale(1.1);
-    background-color: #E5547320;
-    border-radius: 20px;
+    background-color: #E5547330;
+    border-radius: 10px;
+    padding-bottom: 10px;
 }
