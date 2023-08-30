@@ -118,12 +118,24 @@ body{
 .order-btn{
     text-align: center;
     margin-left: 20px;
-    background-color: #E55473;
+    background-color: #E5547370;
     color: #FFFFFF;
     padding: 10px 15px;
     border-radius: 5px;
     border: 0px;
 
+}
+.cart-btn{
+    text-align: center;
+    background-color: #E5547370;
+    color: #FFFFFF;
+    padding: 10px 15px;
+    border-radius: 5px;
+    border: 0px;
+
+}
+.cart-btn:hover, .order-btn:hover{
+    background-color: #E55473;
 }
 
 .offer-options{
@@ -169,7 +181,7 @@ body{
 
 .zoom:hover{
     transform: scale(1.1);
-    background-color: #E5547330;
+    background-color: #1aada330;
     border-radius: 10px;
     padding-bottom: 10px;
 }
