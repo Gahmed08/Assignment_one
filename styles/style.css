@@ -11,7 +11,7 @@ body{
 }
 .banner-main{
     display: flex;
-    padding: 20px 60px 0px 60px;
+    padding: 20px 0px 0px 60px;
 }
 
 .banner-content{
@@ -90,6 +90,24 @@ body{
     text-align: center;
 }
 
+.vase{
+    margin: 30px 100px;
+}
+
+.vase-heading{
+    text-align: center;
+}
+
+.all-vase{
+    display: flex;
+    justify-content: space-between;
+}
+
+.glass-vase-flower>img{
+    height: 428px;
+    width: 310px;
+}
+
 .offer{
     background-color: #E5547315;
 }
@@ -136,5 +154,6 @@ body{
 }
 
 .zoom:hover{
-    transform: scale(1.5);
+    transform: scale(1.2);
+    background-color: #E5547320;
 }
