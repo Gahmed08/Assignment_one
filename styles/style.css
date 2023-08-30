@@ -107,6 +107,9 @@ body{
     height: 428px;
     width: 310px;
 }
+.glass-vase-flower>p{
+    padding-left: 20px;
+}
 
 .offer{
     background-color: #E5547315;
@@ -154,6 +157,7 @@ body{
 }
 
 .zoom:hover{
-    transform: scale(1.2);
+    transform: scale(1.1);
     background-color: #E5547320;
+    border-radius: 20px;
 }
